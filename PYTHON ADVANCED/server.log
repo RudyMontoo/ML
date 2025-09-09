@@ -1,0 +1,6 @@
+2025-08-09 14:18:59,132 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-15
+2025-08-09 14:18:59,138 - db_helper - INFO - fetch_expenses_for_date called with 9999-08-15
+2025-08-09 14:18:59,146 - db_helper - INFO - fetch_expense_summary called with start: 2099-01-01 end: 2099-12-31
+2025-08-09 14:19:23,381 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-15
+2025-08-09 14:19:23,391 - db_helper - INFO - fetch_expenses_for_date called with 9999-08-15
+2025-08-09 14:19:23,402 - db_helper - INFO - fetch_expense_summary called with start: 2099-01-01 end: 2099-12-31
