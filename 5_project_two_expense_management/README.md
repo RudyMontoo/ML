@@ -19,7 +19,7 @@ This project is an expense management system that consists of a Streamlit fronte
    git clone https://github.com/yourusername/expense-management-system.git
    cd expense-management-system
    ```
-1. **Install dependencies:**:   
+1. **Install dependencies:**:   py -3.12 -m venv venv
    ```commandline
     pip install -r requirements.txt
    ```
