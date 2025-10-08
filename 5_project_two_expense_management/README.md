@@ -1,6 +1,6 @@
 # Expense Management System
 
-This project pgit statusis an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+This project pggit statusis an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
 
 
 ## Project Structure
